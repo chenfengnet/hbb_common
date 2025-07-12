@@ -105,7 +105,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["yc.ouc.cc"];
-pub const RS_PUB_KEY: &str = "XSzpX3fG9nUjtf97wZ56iIBLvZGhKbx3KQFmd55Eh94=";
+pub const RS_PUB_KEY: &str = "Ht0oVI4yiJl2Jk0r7oqoGCn0GjX0yBAzBaXzqd2FBI4=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
